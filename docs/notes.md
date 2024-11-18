@@ -1,5 +1,9 @@
 # Feature Engineering and Dataset Preparation for Ames Housing Dataset
 
+## Colaborators
+Gabriel Mendes
+Luca Feltrin
+
 ## Overview
 This document explains the comprehensive feature engineering process applied to the Ames Housing dataset. It also justifies why no further strong feature engineering is necessary at this stage. This dataset contains detailed information from the Ames Assessor’s Office, which was used to evaluate residential properties sold in Ames, Iowa, between 2006 and 2010.
 
